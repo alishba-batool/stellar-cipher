@@ -6,8 +6,9 @@
 ![Flask](https://img.shields.io/badge/Flask-3.0-black.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab470d0b-9797-4ac0-9749-0ec5372323d7" />
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/af7f562b-8776-4316-ac55-7c7a292dd12b" />
+<img width="949" height="441" alt="image" src="https://github.com/user-attachments/assets/ed6fa0f4-38f2-49d0-8b96-771f98984c03" />
+
+<img width="928" height="442" alt="image" src="https://github.com/user-attachments/assets/43cb9303-2801-44d0-9b30-c8f7ab31a810" />
 
 
 ---
